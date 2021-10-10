@@ -1,0 +1,25 @@
+Tekken 7 Modder's Resources
+Swappable Two Sided MI
+
+Uses default textures (in-game references)
+D: T_CH_FabricBase01_D (dxt 1/5)
+N: T_CH_FabricBase01_N (dxt 5)
+M: T_CH_FabricBase01_M (dxt 5)
+
+Variations
+R = Max/Min Roughness, M = Metallic
+Default: M 0.2, R 0.8/0.5
+Metallic: M 1.0, R 0.8/0.5
+Glossy: M 0.2, R 0.0/0.0
+Flat: M 0.2, R 1.0/1.0
+MetalGloss: M 1.0, R 0.0/0.0
+
+Instructions
+Swap these MI's with in-game or custom
+MI's for use with custom mods. You will 
+need to swap in your own textures.
+
+Original MI directory is .../Game/Content/Modders/reborn
+but you will put your swapped MI's in the 
+locations where they belong.
+
